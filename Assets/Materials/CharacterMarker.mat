@@ -44,7 +44,7 @@ Material:
     - _StarfaceColor: {r: 0, g: 0, b: 0, a: 0}
     - _SurfaceColor: {r: 0.5660378, g: 0.19971521, b: 0.19971521, a: 0}
     - _Wavescale: {r: 0.5, g: 1.5, b: 0, a: 0}
-    - _pos: {r: 0.86223066, g: 0, b: -2.8178124, a: 0}
+    - _pos: {r: 0.063931674, g: 0, b: 2.4159842, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1080226234518317476
 MonoBehaviour:
